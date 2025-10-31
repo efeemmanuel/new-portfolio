@@ -18,14 +18,14 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=300&fit=crop",
       link: "#"
     },
-    {
-      id: 3,
-      title: "Weather Dashboard",
-      description: "Beautiful weather application with location-based forecasts, interactive maps, and detailed analytics.",
-      tech: ["React", "D3.js", "OpenWeather API", "Chart.js"],
-      image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=400&h=300&fit=crop",
-      link: "#"
-    }
+    // {
+    //   id: 3,
+    //   title: "Weather Dashboard",
+    //   description: "Beautiful weather application with location-based forecasts, interactive maps, and detailed analytics.",
+    //   tech: ["React", "D3.js", "OpenWeather API", "Chart.js"],
+    //   image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=400&h=300&fit=crop",
+    //   link: "#"
+    // }
   ];
 
   return (
@@ -66,3 +66,4 @@ const Projects = () => {
 
 
 export default Projects;
+
