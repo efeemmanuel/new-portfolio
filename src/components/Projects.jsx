@@ -6,9 +6,9 @@ const Projects = () => {
       id: 1,
       title: "E-Commerce Platform",
       description: "A modern e-commerce solution built with React and Node.js, featuring real-time inventory, secure payments, and admin dashboard.",
-      tech: ["React", "TypeScript", "Node.js", "MongoDB", "Stripe"],
+      tech: ["React", "Python", "Django", "MongoDB", "Paystack"],
       image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&h=300&fit=crop",
-      link: "#"
+      link: "https://horizonstore.pythonanywhere.com/"
     },
     {
       id: 2,
@@ -63,5 +63,6 @@ const Projects = () => {
     </section>
   );
 };
+
 
 export default Projects;
