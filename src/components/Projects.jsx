@@ -14,9 +14,9 @@ const Projects = () => {
       id: 2,
       title: "Task Management App",
       description: "Collaborative project management tool with real-time updates, drag-and-drop functionality, and team collaboration features.",
-      tech: ["Vue.js", "Firebase", "SCSS", "PWA"],
+      tech: ["React", "SQL"],
       image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=300&fit=crop",
-      link: "#"
+      link: "https://flusk.pythonanywhere.com/"
     },
     // {
     //   id: 3,
@@ -66,4 +66,5 @@ const Projects = () => {
 
 
 export default Projects;
+
 
